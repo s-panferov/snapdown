@@ -6,7 +6,7 @@ Those kind of tests are mostly useful for something like parsers, when you have 
 
 The main convenience of this library is to have both *inputs* and *outputs* in the same file. 
 
-Works best with `datatest`.
+Works best with [`datatest`](https://crates.io/crates/datatest).
 
 ## Example
 
